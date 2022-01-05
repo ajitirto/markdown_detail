@@ -62,3 +62,4 @@ Memepelajari markdwon dengan senang hati. belajar dari dasar sampai tahu
 * [Menambahkan Gambar](menambahkan-gambar.md)
 * [Line break, horizontal rule, blocquote](lhb.md)
 * [code block](code-block.md)
+* [cheetsheat](markdown-cheat-sheet.md)
